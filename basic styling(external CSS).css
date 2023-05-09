@@ -1,0 +1,19 @@
+body{
+background-color: lightblue;
+}
+h1{
+
+color: navy;
+
+margin-left: 20px;
+}
+.testClass{
+
+color:red;
+font-size:300%;
+}
+/*if we ever want to change the value of a CSS property
+ we just have to do it in one spot and it would affect all places in a webpage where that property is used.
+ an external stylesheet has the advantage that it can be referred to by many different webpages, 
+ so if you want to make a stylistic change across an entire website, for example, 
+ you just have to make the change in one spot in your external CSS file.*/
